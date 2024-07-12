@@ -16,5 +16,7 @@ O projeto foi desenvolvido utilizando o ChatGPT como ferramenta central. Inicial
 ## 🚀 Resultados
 O resultado do projeto, foi a criação de um video de 2:58 minutos apresentando de maneira breve algumas ferramentas importantes para machine learning, além de apresentar um pouco sobre o que significa essa tecnologia.
 
+**[LINK PARA O VIDEO](https://youtu.be/_jsj8OyUrZ8)**
+
 ## 💭 Reflexão (Opcional)
 O desenvolvimento do projeto apresentou maneiras interessantes de utilizar inteligências artificiais nos dias de hoje e permitiu aprender como usar várias IAs em conjunto. Além disso, foi possível chegar a conclusões importantes, como a dificuldade das IAs de criação de imagem em gerar certos conteúdos específicos, como textos ou logotipos. Observou-se também que as IAs generativas, como o ChatGPT, possuem grande capacidade. Nesse projeto, além de utilizar a parte "criativa" do ChatGPT para roteirização, foi possível usá-lo para gerenciar o uso de outras ferramentas de IA.
