@@ -1,5 +1,4 @@
-```markdown
-Roteiro para Vídeo de Introdução ao Machine Learning
+## Roteiro para Vídeo de Introdução ao Machine Learning
 
 ## 📒 Descrição
 Esse projeto teve como foco criar uma aula de introdução ao estudo de machine learning e mostrar as principais ferramentas para iniciar o estudo.
